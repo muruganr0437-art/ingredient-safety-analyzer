@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+data/*.sqlite*
+data/emergency_resources.json
+.pytest_cache/
+.streamlit/secrets.toml

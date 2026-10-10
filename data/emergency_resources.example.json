@@ -1,0 +1,9 @@
+{
+  "_instructions": "Copy to data/emergency_resources.json. Add ONLY contacts you have verified from an official source for that country, with the source URL and the date you checked it. The app never ships or invents phone numbers.",
+  "countries": {
+    "EXAMPLE-COUNTRY": {
+      "emergency_services": {"name": "Local emergency number (fill in)", "phone": "", "source_url": "", "verified_on": ""},
+      "poison_information": {"name": "Poison information service (fill in)", "phone": "", "source_url": "", "verified_on": ""}
+    }
+  }
+}

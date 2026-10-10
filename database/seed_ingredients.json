@@ -1,0 +1,420 @@
+[
+  {
+    "canonical_name": "Aspartame",
+    "synonyms": [
+      "aspartame (sweetener)",
+      "aspartam",
+      "l-aspartyl-l-phenylalanine methyl ester",
+      "nutrasweet"
+    ],
+    "e_number": "E951",
+    "ins_number": "951",
+    "category": "Sweetener (intense, artificial)",
+    "purpose": "Intense sweetener used in place of sugar in 'diet', 'light' and sugar-free products.",
+    "hazard_summary": "Must be avoided by people with phenylketonuria (PKU) because it is a source of phenylalanine. In 2023 IARC classified aspartame as 'possibly carcinogenic to humans' (Group 2B, limited evidence) while JECFA kept its acceptable daily intake unchanged.",
+    "evidence_level": "limited",
+    "evidence_limitations": "IARC hazard classification (limited evidence) is not a risk estimate; JECFA/EFSA risk assessments concluded intakes within the ADI are not of concern. Seed record: needs human review against the cited documents.",
+    "permitted_use_notes": "Permitted additive in many jurisdictions under conditions of use; check local rules.",
+    "precautions": "People with phenylketonuria should avoid phenylalanine sources, including aspartame, and follow their clinician's guidance.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Aspartame hazard and risk assessment results released",
+        "publisher": "World Health Organization (WHO)",
+        "url": "https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released",
+        "publication_date": "2023",
+        "retrieval_date": null,
+        "claim_supported": "IARC Group 2B classification; JECFA ADI of 40 mg/kg bw/day maintained"
+      },
+      {
+        "title": "Scientific Opinion on the re-evaluation of aspartame (E 951) as a food additive",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3496",
+        "publication_date": "2013",
+        "retrieval_date": null,
+        "claim_supported": "EFSA ADI of 40 mg/kg bw/day; PKU consideration"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Phenylalanine exposure is hazardous to people with phenylketonuria (PKU).",
+        "timeframe": "allergy_sensitivity",
+        "body_system": "Nervous system (in untreated PKU)",
+        "evidence_type": "established_causal",
+        "evidence_level": "established",
+        "conditions": "Applies to individuals with PKU only.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/3496"
+      },
+      {
+        "effect": "Possible carcinogenic hazard (IARC Group 2B), based on limited evidence for hepatocellular carcinoma in humans.",
+        "timeframe": "long_term",
+        "body_system": "Liver",
+        "evidence_type": "association",
+        "evidence_level": "limited",
+        "conditions": "Hazard classification only; JECFA concluded no change to the ADI.",
+        "source_url": "https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released"
+      }
+    ],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 40,
+        "expressed_as": "aspartame",
+        "authority": "JECFA (reaffirmed 2023) / EFSA (2013)",
+        "jurisdiction": "International / EU",
+        "source_url": "https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released",
+        "verification_status": "unverified",
+        "notes": "Chronic reference value; not an acute toxicity threshold."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Sodium benzoate",
+    "synonyms": [
+      "benzoate of soda",
+      "sodium benzoate (preservative)",
+      "benzoic acid sodium salt"
+    ],
+    "e_number": "E211",
+    "ins_number": "211",
+    "category": "Preservative",
+    "purpose": "Antimicrobial preservative, mainly in acidic foods and beverages.",
+    "hazard_summary": "Evaluated together with benzoic acid and other benzoates as a group. Hypersensitivity-type reactions have been reported in some sensitive individuals.",
+    "evidence_level": "limited",
+    "evidence_limitations": "Seed record: sensitivity claim and group ADI must be checked by a reviewer against the cited opinion. Benzoate effects in combination with certain colours were examined in other EFSA work not cited here.",
+    "permitted_use_notes": "Group of benzoates evaluated together; use conditions vary by food category and jurisdiction.",
+    "precautions": "People with a documented sensitivity to benzoates should check labels and seek clinician advice.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Scientific Opinion on the re-evaluation of benzoic acid (E 210), sodium benzoate (E 211), potassium benzoate (E 212) and calcium benzoate (E 213) as food additives",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4433",
+        "publication_date": "2016",
+        "retrieval_date": null,
+        "claim_supported": "Group ADI for benzoic acid and benzoates; sensitivity reactions discussion"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Hypersensitivity-type reactions (e.g., skin reactions) reported in some sensitive individuals.",
+        "timeframe": "allergy_sensitivity",
+        "body_system": "Skin / immune",
+        "evidence_type": "association",
+        "evidence_level": "limited",
+        "conditions": "Sensitive individuals only.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4433"
+      }
+    ],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 5,
+        "expressed_as": "benzoic acid (group ADI for benzoic acid and its salts)",
+        "authority": "EFSA (2016)",
+        "jurisdiction": "EU",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4433",
+        "verification_status": "unverified",
+        "notes": "Group ADI expressed as benzoic acid: concentrations of sodium benzoate must be converted before comparing."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Tartrazine",
+    "synonyms": [
+      "tartrazin",
+      "fd&c yellow no. 5",
+      "fd&c yellow 5",
+      "yellow 5",
+      "c.i. food yellow 4",
+      "colour (tartrazine)"
+    ],
+    "e_number": "E102",
+    "ins_number": "102",
+    "category": "Colour (synthetic azo dye)",
+    "purpose": "Yellow food colour.",
+    "hazard_summary": "Intolerance or allergy-like reactions have been reported in a small number of sensitive individuals. In the EU, foods containing this colour must carry a warning that it may have an adverse effect on activity and attention in children.",
+    "evidence_level": "limited",
+    "evidence_limitations": "Seed record: verify the ADI and labelling statements against the cited opinion and current EU law.",
+    "permitted_use_notes": "EU labelling rules apply to this colour; other jurisdictions differ.",
+    "precautions": "Individuals with a documented sensitivity to azo dyes should check labels and consult a clinician.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Scientific Opinion on the re-evaluation of Tartrazine (E 102)",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/1331",
+        "publication_date": "2009",
+        "retrieval_date": null,
+        "claim_supported": "EFSA ADI; sensitivity reactions in some individuals"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Allergy-like/intolerance reactions in a small number of sensitive individuals.",
+        "timeframe": "allergy_sensitivity",
+        "body_system": "Skin / respiratory / immune",
+        "evidence_type": "association",
+        "evidence_level": "limited",
+        "conditions": "Sensitive individuals only.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/1331"
+      }
+    ],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 7.5,
+        "expressed_as": "tartrazine",
+        "authority": "EFSA (2009)",
+        "jurisdiction": "EU",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/1331",
+        "verification_status": "unverified",
+        "notes": "JECFA has its own ADI; jurisdictions differ."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Sunset Yellow FCF",
+    "synonyms": [
+      "sunset yellow",
+      "fd&c yellow no. 6",
+      "fd&c yellow 6",
+      "yellow 6",
+      "orange yellow s",
+      "colour (sunset yellow)"
+    ],
+    "e_number": "E110",
+    "ins_number": "110",
+    "category": "Colour (synthetic azo dye)",
+    "purpose": "Orange-yellow food colour.",
+    "hazard_summary": "In the EU, foods containing this colour must carry a warning that it may have an adverse effect on activity and attention in children.",
+    "evidence_level": "limited",
+    "evidence_limitations": "Seed record: verify ADI and labelling statements against the cited opinion and current EU law.",
+    "permitted_use_notes": "EU labelling rules apply; other jurisdictions differ.",
+    "precautions": "Check labels if a clinician has advised avoiding azo dyes.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Scientific Opinion on the re-evaluation of Sunset Yellow FCF (E 110) as a food additive",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3765",
+        "publication_date": "2014",
+        "retrieval_date": null,
+        "claim_supported": "EFSA ADI"
+      }
+    ],
+    "health_effects": [],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 4,
+        "expressed_as": "sunset yellow FCF",
+        "authority": "EFSA (2014)",
+        "jurisdiction": "EU",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/3765",
+        "verification_status": "unverified",
+        "notes": "Chronic reference value; not an acute toxicity threshold."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Monosodium glutamate",
+    "synonyms": [
+      "msg",
+      "sodium glutamate",
+      "monosodium l-glutamate",
+      "glutamic acid monosodium salt",
+      "flavour enhancer (msg)"
+    ],
+    "e_number": "E621",
+    "ins_number": "621",
+    "category": "Flavour enhancer",
+    "purpose": "Enhances savoury (umami) taste.",
+    "hazard_summary": "Short-term symptoms (e.g., headache, flushing) have been reported by some people after large doses, but controlled studies have been inconsistent.",
+    "evidence_level": "limited",
+    "evidence_limitations": "Seed record: the group ADI for glutamates is expressed as glutamic acid; verify against the cited opinion.",
+    "permitted_use_notes": "Glutamates are evaluated as a group; conditions of use vary.",
+    "precautions": "Individuals who notice symptoms after glutamate-rich foods may wish to discuss them with a clinician.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Scientific Opinion on the safety of glutamic acid and glutamates (E 620-625) as food additives",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4910",
+        "publication_date": "2017",
+        "retrieval_date": null,
+        "claim_supported": "Group ADI for glutamates; discussion of reported short-term symptoms"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Transient symptoms (e.g., headache, flushing) reported by some people after high single doses.",
+        "timeframe": "short_term",
+        "body_system": "Nervous system / vascular",
+        "evidence_type": "association",
+        "evidence_level": "limited",
+        "conditions": "High single doses, reported mainly without food; study results inconsistent.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4910"
+      }
+    ],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 30,
+        "expressed_as": "glutamic acid (group ADI for glutamates)",
+        "authority": "EFSA (2017)",
+        "jurisdiction": "EU",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4910",
+        "verification_status": "unverified",
+        "notes": "Expressed as glutamic acid: convert MSG amounts before comparing."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Sodium nitrite",
+    "synonyms": [
+      "nitrite of soda",
+      "curing salt (sodium nitrite)",
+      "preservative (sodium nitrite)"
+    ],
+    "e_number": "E250",
+    "ins_number": "250",
+    "category": "Preservative / curing agent",
+    "purpose": "Preservative and colour fixative in cured meats; inhibits growth of Clostridium botulinum.",
+    "hazard_summary": "At high doses nitrite can cause methaemoglobinaemia (reduced oxygen-carrying capacity of blood); infants are more susceptible. Under conditions that favour endogenous nitrosation, ingested nitrite is classified by IARC as probably carcinogenic to humans (Group 2A).",
+    "evidence_level": "established",
+    "evidence_limitations": "Seed record: the cancer classification applies to conditions favouring nitrosation, not to every exposure. Verify wording against IARC and EFSA documents.",
+    "permitted_use_notes": "Use is regulated with maximum levels in many jurisdictions.",
+    "precautions": "Follow paediatric guidance for infants; seek urgent care for blue-grey skin, breathlessness or collapse after a suspected high nitrite exposure.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Scientific opinion on the re-evaluation of sodium nitrite (E 250) and potassium nitrite (E 249) as food additives",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4786",
+        "publication_date": "2017",
+        "retrieval_date": null,
+        "claim_supported": "EFSA ADI for nitrite; methaemoglobinaemia considerations"
+      },
+      {
+        "title": "IARC Monographs on the Identification of Carcinogenic Hazards to Humans",
+        "publisher": "International Agency for Research on Cancer (IARC)",
+        "url": "https://monographs.iarc.who.int/",
+        "publication_date": "2010",
+        "retrieval_date": null,
+        "claim_supported": "Ingested nitrite under conditions of endogenous nitrosation: Group 2A (landing page; reviewer must link the specific volume)"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Methaemoglobinaemia at high exposures; infants more susceptible.",
+        "timeframe": "short_term",
+        "body_system": "Blood / oxygen transport",
+        "evidence_type": "established_causal",
+        "evidence_level": "established",
+        "conditions": "High exposure; infants more susceptible.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4786"
+      },
+      {
+        "effect": "Probable carcinogenic hazard (IARC Group 2A) when ingested under conditions that result in endogenous nitrosation.",
+        "timeframe": "long_term",
+        "body_system": "Gastrointestinal tract",
+        "evidence_type": "association",
+        "evidence_level": "limited",
+        "conditions": "Hazard classification under specific conditions, not a per-product risk estimate.",
+        "source_url": "https://monographs.iarc.who.int/"
+      }
+    ],
+    "safety_limits": [
+      {
+        "limit_type": "ADI",
+        "value_mg_per_kg_bw": 0.07,
+        "expressed_as": "nitrite ion",
+        "authority": "EFSA (2017)",
+        "jurisdiction": "EU",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/4786",
+        "verification_status": "unverified",
+        "notes": "Expressed as nitrite ion; convert sodium nitrite amounts before comparing."
+      }
+    ]
+  },
+  {
+    "canonical_name": "Titanium dioxide",
+    "synonyms": [
+      "titanium dioxide (colour)",
+      "tio2",
+      "ci 77891",
+      "colour (titanium dioxide)"
+    ],
+    "e_number": "E171",
+    "ins_number": "171",
+    "category": "Colour (white pigment)",
+    "purpose": "Whitening and opacifying agent.",
+    "hazard_summary": "In 2021 EFSA concluded it could no longer consider E171 safe as a food additive because a genotoxicity concern could not be ruled out. Its EU authorisation as a food additive was subsequently withdrawn.",
+    "evidence_level": "limited",
+    "evidence_limitations": "EFSA's concern relates to uncertainty about genotoxicity of nanoparticles; no safe intake level was established, so no numerical limit is recorded. Regulatory status differs between jurisdictions.",
+    "permitted_use_notes": "Not authorised as a food additive in the EU; status elsewhere varies, verify locally.",
+    "precautions": "Individuals who prefer to avoid it can check labels for E171 / titanium dioxide.",
+    "verification_status": "unverified",
+    "sources": [
+      {
+        "title": "Safety assessment of titanium dioxide (E171) as a food additive",
+        "publisher": "European Food Safety Authority (EFSA)",
+        "url": "https://www.efsa.europa.eu/en/efsajournal/pub/6585",
+        "publication_date": "2021",
+        "retrieval_date": null,
+        "claim_supported": "Genotoxicity concern could not be ruled out; no safe level established"
+      }
+    ],
+    "health_effects": [
+      {
+        "effect": "Genotoxicity concern could not be excluded (uncertainty; no established health effect in people).",
+        "timeframe": "long_term",
+        "body_system": null,
+        "evidence_type": "theoretical",
+        "evidence_level": "insufficient",
+        "conditions": "Concern relates to particle properties and uncertainty, not a demonstrated effect at typical intakes.",
+        "source_url": "https://www.efsa.europa.eu/en/efsajournal/pub/6585"
+      }
+    ],
+    "safety_limits": []
+  },
+  {
+    "canonical_name": "Citric acid",
+    "synonyms": [
+      "citric acid (acidity regulator)",
+      "acidity regulator (citric acid)"
+    ],
+    "e_number": "E330",
+    "ins_number": "330",
+    "category": "Acidity regulator",
+    "purpose": "Adjusts acidity, adds sour taste, assists preservation.",
+    "hazard_summary": null,
+    "evidence_level": "not_assessed",
+    "evidence_limitations": "No hazard entries have been curated for this record yet. Absence of entries is NOT evidence of safety.",
+    "verification_status": "unverified",
+    "sources": [],
+    "health_effects": [],
+    "safety_limits": []
+  },
+  {
+    "canonical_name": "Soy lecithin",
+    "synonyms": [
+      "soya lecithin",
+      "lecithin",
+      "lecithin (soy)",
+      "emulsifier (soy lecithin)"
+    ],
+    "e_number": "E322",
+    "ins_number": "322",
+    "category": "Emulsifier",
+    "purpose": "Emulsifier that helps mix fats and water-based ingredients.",
+    "hazard_summary": null,
+    "evidence_level": "not_assessed",
+    "evidence_limitations": "No hazard entries have been curated yet. Soy is a labelled allergen in many jurisdictions; a reviewer should add sourced allergen information before relying on this record.",
+    "verification_status": "unverified",
+    "sources": [],
+    "health_effects": [],
+    "safety_limits": []
+  }
+]
